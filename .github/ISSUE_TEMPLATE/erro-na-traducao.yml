@@ -1,0 +1,55 @@
+name: Erro na tradução
+description: Texto cortado, em inglês, erro de português, travamento...
+labels: ["erro"]
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Texto cortado ou saindo da caixa
+        - Texto ainda em inglês
+        - Erro de português ou tradução estranha
+        - Travamento ou tela preta
+        - Outro
+    validations:
+      required: true
+  - type: dropdown
+    id: parte
+    attributes:
+      label: Parte do jogo
+      options: ["História (Aincrad ou Área Hollow)", "Eventos, missões e Missões Hollow", "Batalha", "Menu / tela-título / outro"]
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão do patch
+      placeholder: "v1.0"
+    validations:
+      required: true
+  - type: input
+    id: lugar
+    attributes:
+      label: Onde aconteceu
+      description: Cidade, mapa, cena, batalha ou menu.
+      placeholder: "Área Hollow, Floresta de Selvendys, depois da Missão Hollow"
+    validations:
+      required: true
+  - type: textarea
+    id: texto
+    attributes:
+      label: O que aparece e o que deveria aparecer
+      description: Copie o texto da tela. Se for erro de português, sugira a correção.
+    validations:
+      required: true
+  - type: textarea
+    id: print
+    attributes:
+      label: Print da tela
+      description: Arraste a imagem para cá. Ajuda muito!
+  - type: input
+    id: plataforma
+    attributes:
+      label: Onde você joga
+      placeholder: "PC Windows / Steam Deck"
