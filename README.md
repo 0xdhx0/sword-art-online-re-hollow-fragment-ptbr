@@ -1,4 +1,4 @@
-<!-- banner: imagens/banner.png (pendente) -->
+![Sword Art Online Re: Hollow Fragment — Tradução PT-BR](imagens/banner.png)
 
 # ⚔️ Sword Art Online Re: Hollow Fragment (PC) — Tradução PT-BR
 
@@ -19,7 +19,12 @@ fim desta página).*
 
 ## 🖼️ Imagens
 
-<!-- 4 fotos em imagens/fotos/01.jpg a 04.jpg (pendente) -->
+| | |
+|---|---|
+| ![Tela de título](imagens/fotos/01.jpg) | ![Criação de avatar](imagens/fotos/02.jpg) |
+| Tela de título | Criação de avatar |
+| ![Cena da história](imagens/fotos/03.jpg) | ![Menu principal e status](imagens/fotos/04.jpg) |
+| Cena da história | Menu principal e status |
 
 ## 📥 Download
 
