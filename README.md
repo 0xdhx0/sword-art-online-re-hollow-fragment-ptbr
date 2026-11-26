@@ -5,7 +5,7 @@
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PC-1b2838)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-Steam-555)
-![Release](https://img.shields.io/github/v/release/0xdhx0/sword-art-online-re-hollow-fragment-ptbr?include_prereleases&label=patch)
+![Release](https://img.shields.io/github/v/release/dhverso/sword-art-online-re-hollow-fragment-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
 Tradução de fã do **Sword Art Online Re: Hollow Fragment** (PC, Steam).
@@ -109,7 +109,7 @@ Abra uma [issue](../../issues/new/choose) usando o formulário "Erro na traduç�
 
 ## 🙏 Créditos
 
-- **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
+- **Tradução, revisão e ferramentas:** [DHverso](https://github.com/dhverso).
 - **Fontes livres** usadas nas imagens traduzidas (licença OFL).
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todo o texto foi traduzido a partir do inglês com o contexto da
